@@ -25,7 +25,7 @@ Trying my best.
 ---
 
 ## GitHub Stats
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=Pushkar404&theme=github-compact?cache_bust=1)
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=Pushkar404&theme=github-compact)
 
 ---
 
